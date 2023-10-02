@@ -27,6 +27,7 @@ const createArray = (length) => {
   }
   return result;
 };
+
 const createData = () => {
   const current = new Date();
   current.setDate(1);
